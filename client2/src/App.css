@@ -1,0 +1,38 @@
+.App {
+  background-color: rgb(255, 255, 255);
+  width: 800px;
+  position: relative;
+  left: 100px;
+  height: 500px;
+}
+.name, .email, .education{
+  width: 320px;
+  display: flex;
+  margin-top: 20px;
+}
+
+#about{
+  width: 450px;
+  height: 70px;
+}
+#form{
+  align-items: center;
+  margin-left: 90px;
+}
+#about {
+  margin-top: 20px;
+}
+
+#button{
+  margin-top: 110px;
+  margin-left: 15px;
+}
+
+#inputs {
+  width: 280px;
+}
+
+#edit{
+  color: white;
+  text-decoration: none;
+}
